@@ -1,0 +1,10 @@
+V:\CSCI-680-0PV4-2162-4479\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\bin\Debug\VocAppLibrary.dll
+V:\CSCI-680-0PV4-2162-4479\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\bin\Debug\VocAppLibrary.pdb
+V:\CSCI-680-0PV4-2162-4479\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\obj\Debug\ResolveAssemblyReference.cache
+V:\CSCI-680-0PV4-2162-4479\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\obj\Debug\VocAppLibrary.dll
+V:\CSCI-680-0PV4-2162-4479\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\obj\Debug\VocAppLibrary.pdb
+\\vm-vsweb.niunt.niu.edu\user$\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\bin\Debug\VocAppLibrary.dll
+\\vm-vsweb.niunt.niu.edu\user$\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\bin\Debug\VocAppLibrary.pdb
+\\vm-vsweb.niunt.niu.edu\user$\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\obj\Debug\ResolveAssemblyReference.cache
+\\vm-vsweb.niunt.niu.edu\user$\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\obj\Debug\VocAppLibrary.dll
+\\vm-vsweb.niunt.niu.edu\user$\Z1729868\Documents\Visual Studio 2010\Projects\VocAppLibrary\VocAppLibrary\obj\Debug\VocAppLibrary.pdb
